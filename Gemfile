@@ -12,8 +12,12 @@ end
 
 group :development do
   gem 'sqlite3', '1.3.8'
-  gem 'rails_layout'
 end
+
+
+
+gem 'rails_layout'
+
 
 
 
